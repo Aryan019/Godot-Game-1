@@ -13,3 +13,5 @@ func _ready() -> void:
 func _process(delta: float) -> void:
 	
 	pass
+
+#Concept of delta also updating a child node from a parent node 

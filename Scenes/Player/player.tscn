@@ -12,3 +12,4 @@ texture = ExtResource("1_c51rx")
 [node name="LaserImage" type="Sprite2D" parent="PlayerImage"]
 position = Vector2(19, -164)
 texture = ExtResource("2_v5ht7")
+
